@@ -11,6 +11,7 @@ This project aims to create a classic game of Tic-Tac-Toe using HTML, Java Scrip
 In this task, you will build your personal chatbot that responds to user inputs based on
 predefined rules. This will give you a basic understanding of natural language processing and conversation flow.
 
-🧑🏻‍🦰 Task 3 - "FACE DETECTION AND RECOGNITION"
+ 💻 Task 3 - "RECOMMENDATION SYSTEM"
 
-This task focuses on building an AI application that can detect and recognize faces in images or videos.
+This task focuses on building an recommendation system that suggests items to users based on their preferences. 
+
