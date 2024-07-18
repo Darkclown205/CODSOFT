@@ -13,5 +13,5 @@ predefined rules. This will give you a basic understanding of natural language p
 
  💻 Task 3 - "RECOMMENDATION SYSTEM"
 
-This task focuses on building an recommendation system that suggests items to users based on their preferences. 
+This task focuses on building an recommendation system that suggests items to users based on their preferences.
 
